@@ -1,0 +1,3 @@
+﻿  libStackByArray.cpp
+c:\users\grzegorz\visual-workspace\laboratoria\lab04_01\lab04_01\libstackbyarray.cpp(63): warning C4715: "createReadFile”: niewszystkie ścieżki kodu zwracają wartość
+  lab04_01.vcxproj -> C:\Users\Grzegorz\visual-workspace\Laboratoria\lab04_01\Debug\lab04_01.exe
